@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ClipBoardManager",
+    "slug": "ClipBoardManager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ClipBoardManager"
+}
