@@ -3,9 +3,12 @@
     "name": "ClipBoardManager",
     "slug": "ClipBoardManager",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "backgroundColor": "#FEF9B0",
+      "resizeMode": "native"
+    },
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "ClipBoardManager"
 }
